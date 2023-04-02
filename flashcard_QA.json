@@ -1,0 +1,81 @@
+const flashcard_QA = [{
+    "q": "<h3></h3>",
+    "a": "<h2>Collage with only torn elements.</h2>",
+    "link": "",
+    "category": ""
+  },{
+    "q": "<h3></h3>",
+    "a": "<h2>Cut out 5 shapes. <br><br>Make collage out of the pages the shapes were cut out of.</h2>",
+    "link": "",
+    "category": ""
+  },{
+    "q": "<h3></h3>",
+    "a": "<h2>Make a full bleed collage.</h2>",
+    "link": "",
+    "category": ""
+  },{
+    "q": "<h3></h3>",
+    "a": "<h2>No elements can touch or overlap.</h2>",
+    "link": "",
+    "category": ""
+  },{
+    "q": "<h3></h3>",
+    "a": "<h2>Write a phrase or series of words. <br><br>Collage over it.</h2>",
+    "link": "",
+    "category": ""
+  },{
+    "q": "<h3></h3>",
+    "a": "<h2>Glue next element face down.</h2>",
+    "link": "",
+    "category": ""
+  },{
+    "q": "<h3></h3>",
+    "a": "<h2>Fill your composition with dots.</h2>",
+    "link": "",
+    "category": ""
+  },{
+    "q": "<h3></h3>",
+    "a": "<h2>Make a collage using only paper you have thrown in the trash.</h2>",
+    "link": "",
+    "category": ""
+  },{
+    "q": "<h3></h3>",
+    "a": "<h2>Start a new collage.</h2>",
+    "link": "",
+    "category": ""
+  },{
+    "q": "<h3></h3>",
+    "a": "<h2>Collage without adhesive. <br><br>Take a pic of it. <br><br>Brush elements off of page.</h2>",
+    "link": "",
+    "category": ""
+  },{
+    "q": "<h3></h3>",
+    "a": "<h2>Drop element from at least 12” from collage. <br><br>Glue to composition where ever it landed.</h2>",
+    "link": "",
+    "category": ""
+  },{
+    "q": "<h3></h3>",
+    "a": "<h2>Collage on a circle.</h2>",
+    "link": "",
+    "category": ""
+  },{
+    "q": "<h3></h3>",
+    "a": "<h2>Must contain part of an envelope.</h2>",
+    "link": "",
+    "category": ""
+  },{
+    "q": "<h3></h3>",
+    "a": "<h2>Draw an outline of a shape.</h2>",
+    "link": "",
+    "category": ""
+  },{
+    "q": "<h3></h3>",
+    "a": "<h2>Draw dots on top of a finished collage.</h2>",
+    "link": "",
+    "category": ""
+  },{
+    "q": "<h3></h3>",
+    "a": "<h2>Draw lines on top of a finished collage.</h2>",
+    "link": "",
+    "category": ""
+  }]
